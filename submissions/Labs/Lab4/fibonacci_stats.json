@@ -1,0 +1,16 @@
+{
+    "sequence_length": 25,
+    "starting_values": [
+        1,
+        1
+    ],
+    "ratio_statistics": {
+        "minimum": 1.0,
+        "maximum": 2.0,
+        "mean": 1.604765115,
+        "median": 1.618033989,
+        "mode": 1.0,
+        "final_ratio": 1.618033989,
+        "standard_deviation": 0.153271238
+    }
+}

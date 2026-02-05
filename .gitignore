@@ -1,0 +1,11 @@
+env/
+__pycache__/
+*.pyc
+.DS_Store
+*.ipynb_checkpoints/
+*.csv
+*.pkl
+*.pickle
+large_data/
+data/
+
